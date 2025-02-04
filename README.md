@@ -1,2 +1,2 @@
 # golangSSL
-Golang script to discover, renew and monitor SSL certificates using the CertifyTheWeb API.
+Golang script to discover, renew and monitor web certificates using the CertifyTheWeb API.
